@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>christerfild prototipe</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body style="background-color: rgb(0, 38, 255);">
+    <h1 class="text-center text-6xl" >christerfild.html</h1>
+    <h1 class="text-center text-4xl" >es un prototipo</h1>
+    <div class="w-full max-w-4xl mx-auto px-4"> 
+  <div class="aspect-auto w-full overflow-hidden rounded-2xl shadow-xl bg-black">
+    <video 
+      controls 
+      class="w-full h-full object-cover"
+    >
+    <source src="" type="video/mp4">
+    Tu navegador no soporta videos.
+  </video>
+</div>
+    <a href="https://google.com" 
+   class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded no-underline inline-block">
+   Ir a otra página
+</a>
+</body>
+</html>

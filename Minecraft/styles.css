@@ -1,0 +1,9 @@
+#boton-dwnl {
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    display: block;       /* Ayuda a que los enlaces respeten el centrado y el diseño */
+    margin: 10px auto;    /* Separa los elementos y los centra en la pantalla */
+    padding: 10px;        /* Le da espacio interno para que parezca un botón real */
+}
